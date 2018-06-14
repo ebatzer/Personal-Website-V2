@@ -3,35 +3,30 @@ output:
   html_document
 ---
 
-**Evan E Batzer**\
-
-  ----------------------------- ---------------------------------
   Graduate Student Researcher   Graduate Group in Ecology
   ebatzer\@ucdavis.edu          University of California, Davis
   Phone: 203.448.8124           Davis, CA 95616
-  ----------------------------- ---------------------------------
 
-------------------------------------------------------------------------
 
 ### EDUCATION {#education .unnumbered .unnumbered}
-  ------------------------------- ---------------------------------
-  PhD, Ecology, (expected 2020)   University of California, Davis
-  *Advisor:* Valerie Eviner       *GPA:* 4.00
-  ------------------------------- ---------------------------------
+PhD, Ecology, (expected 2020)   
+University of California, Davis
+*Advisor:* Valerie Eviner       
+*GPA:* 4.00
 
-  --------------------------------------------------- ------------------------
-  BSc *cum laude* (December 2012)                     University of Michigan
-  *Concentration:* Ecology and Evolutionary Biology   *GPA:* 3.74
-  --------------------------------------------------- ------------------------
+BSc *cum laude* (December 2012)                     
+University of Michigan
+*Concentration:* Ecology and Evolutionary Biology   
+*GPA:* 3.74
 
-  -------------------------------------------------------------------- --
-  GRE Scores                                                           
-  *Verbal:* 170 (99%) *Quantitative:* 164 (84%) *Writing:* 4.5 (82%)   
-  -------------------------------------------------------------------- --
+GRE Scores                                                           
+*Verbal:* 170 (99%) 
+*Quantitative:* 164 (84%) 
+*Writing:* 4.5 (82%)   
 
-### PROFESSIONAL EXPERIENCE {#professional-experience .unnumbered .unnumbered}
-  ------------------------------------------------ ---------------------------------
-  Graduate Student Researcher, 09/2014 - Present   University of California, Davis
+### PROFESSIONAL EXPERIENCE
+  
+Graduate Student Researcher, 09/2014 - Present   University of California, Davis
   ------------------------------------------------ ---------------------------------
 
   --------------------------- -------------

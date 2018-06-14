@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Evan Batzer</title>
-    <link>/ebatzer.github.io/publication_types/2/</link>
+    <link>/publication_types/2/</link>
     <description>Recent content in 2 on Evan Batzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/ebatzer.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Clonal plant allocation to daughter ramets is a simple function of parent size across species and nutrient levels</title>
-      <link>/ebatzer.github.io/publication/clonal-allocation/</link>
+      <link>/publication/clonal-allocation/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/ebatzer.github.io/publication/clonal-allocation/</guid>
+      <guid>/publication/clonal-allocation/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

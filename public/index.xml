@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evan Batzer on Evan Batzer</title>
-    <link>/ebatzer.github.io/</link>
+    <link>/</link>
     <description>Recent content in Evan Batzer on Evan Batzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0700</lastBuildDate>
-    <atom:link href="/ebatzer.github.io/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Nitrogen enrichment effects on grassland plant diversity are dependent on spatial scale</title>
-      <link>/ebatzer.github.io/talk/esa-2018/</link>
+      <link>/talk/esa-2018/</link>
       <pubDate>Wed, 08 Aug 2018 00:00:00 -0700</pubDate>
       
-      <guid>/ebatzer.github.io/talk/esa-2018/</guid>
+      <guid>/talk/esa-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Clonal plant allocation to daughter ramets is a simple function of parent size across species and nutrient levels</title>
-      <link>/ebatzer.github.io/publication/clonal-allocation/</link>
+      <link>/publication/clonal-allocation/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/ebatzer.github.io/publication/clonal-allocation/</guid>
+      <guid>/publication/clonal-allocation/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Spatial Structure of California Grasslands</title>
-      <link>/ebatzer.github.io/talk/cnps2016/</link>
+      <link>/talk/cnps2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>/ebatzer.github.io/talk/cnps2016/</guid>
+      <guid>/talk/cnps2016/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/ebatzer.github.io/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
       
-      <guid>/ebatzer.github.io/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -229,10 +229,10 @@ git submodule update --init --recursive
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/ebatzer.github.io/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/ebatzer.github.io/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
@@ -266,7 +266,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/ebatzer.github.io/ebatzer.github.iopost/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -277,10 +277,10 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title></title>
-      <link>/ebatzer.github.io/vitae/</link>
+      <link>/vitae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ebatzer.github.io/vitae/</guid>
+      <guid>/vitae/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
 &lt;html xmlns=&#34;http://www.w3.org/1999/xhtml&#34;&gt;
@@ -930,50 +930,34 @@ $(document).ready(function () {
     
     <item>
       <title></title>
-      <link>/ebatzer.github.io/vitae/</link>
+      <link>/vitae/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ebatzer.github.io/vitae/</guid>
+      <guid>/vitae/</guid>
       <description>
-
-&lt;p&gt;&lt;strong&gt;Evan E Batzer&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;p&gt;Graduate Student Researcher   Graduate Group in Ecology
   ebatzer\@ucdavis.edu          University of California, Davis
   Phone: 203.448.8124           Davis, CA 95616&lt;/p&gt;
 
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
 &lt;h3 id=&#34;education .unnumbered .unnumbered&#34;&gt;EDUCATION&lt;/h3&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;PhD, Ecology, (expected 2020)&lt;br /&gt;
+University of California, Davis
+&lt;em&gt;Advisor:&lt;/em&gt; Valerie Eviner&lt;br /&gt;
+&lt;em&gt;GPA:&lt;/em&gt; 4.00&lt;/p&gt;
 
-&lt;p&gt;PhD, Ecology, (expected 2020)   University of California, Davis
-  &lt;em&gt;Advisor:&lt;/em&gt; Valerie Eviner       &lt;em&gt;GPA:&lt;/em&gt; 4.00&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;BSc &lt;em&gt;cum laude&lt;/em&gt; (December 2012)                     University of Michigan
-  &lt;em&gt;Concentration:&lt;/em&gt; Ecology and Evolutionary Biology   &lt;em&gt;GPA:&lt;/em&gt; 3.74&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;hr /&gt;
+&lt;p&gt;BSc &lt;em&gt;cum laude&lt;/em&gt; (December 2012)&lt;br /&gt;
+University of Michigan
+&lt;em&gt;Concentration:&lt;/em&gt; Ecology and Evolutionary Biology&lt;br /&gt;
+&lt;em&gt;GPA:&lt;/em&gt; 3.74&lt;/p&gt;
 
 &lt;p&gt;GRE Scores&lt;br /&gt;
-  &lt;em&gt;Verbal:&lt;/em&gt; 170 (99%) &lt;em&gt;Quantitative:&lt;/em&gt; 164 (84%) &lt;em&gt;Writing:&lt;/em&gt; 4.5 (82%)&lt;/p&gt;
+&lt;em&gt;Verbal:&lt;/em&gt; 170 (99%)
+&lt;em&gt;Quantitative:&lt;/em&gt; 164 (84%)
+&lt;em&gt;Writing:&lt;/em&gt; 4.5 (82%)&lt;/p&gt;
 
-&lt;hr /&gt;
-
-&lt;h3 id=&#34;professional-experience .unnumbered .unnumbered&#34;&gt;PROFESSIONAL EXPERIENCE&lt;/h3&gt;
-
-&lt;hr /&gt;
+&lt;h3 id=&#34;professional-experience&#34;&gt;PROFESSIONAL EXPERIENCE&lt;/h3&gt;
 
 &lt;p&gt;Graduate Student Researcher, 09/2014 - Present   University of California, Davis&lt;/p&gt;
 

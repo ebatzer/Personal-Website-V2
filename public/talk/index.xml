@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Evan Batzer</title>
-    <link>/ebatzer.github.io/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Evan Batzer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
     
-	<atom:link href="/ebatzer.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nitrogen enrichment effects on grassland plant diversity are dependent on spatial scale</title>
-      <link>/ebatzer.github.io/talk/esa-2018/</link>
+      <link>/talk/esa-2018/</link>
       <pubDate>Wed, 08 Aug 2018 00:00:00 -0700</pubDate>
       
-      <guid>/ebatzer.github.io/talk/esa-2018/</guid>
+      <guid>/talk/esa-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spatial Structure of California Grasslands</title>
-      <link>/ebatzer.github.io/talk/cnps2016/</link>
+      <link>/talk/cnps2016/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0800</pubDate>
       
-      <guid>/ebatzer.github.io/talk/cnps2016/</guid>
+      <guid>/talk/cnps2016/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
