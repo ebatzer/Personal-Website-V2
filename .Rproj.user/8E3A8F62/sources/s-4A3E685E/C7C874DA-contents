@@ -69,7 +69,7 @@ enableGitInfo = false
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
- 
+
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
   #   discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
@@ -223,7 +223,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:ebatzer@ucdavis.edu"
 
   [[params.social]]
     icon = "twitter"
@@ -258,7 +258,7 @@ enableGitInfo = false
   name = "CV"
   url = "/vitae/"
   weight = 2
-  
+
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
