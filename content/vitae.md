@@ -2,50 +2,43 @@
 output:
   html_document
 ---
+  ------------------------------------- ---------------------------------
+### EDUCATION
+  ------------------------------------- ---------------------------------
 
-  Graduate Student Researcher   Graduate Group in Ecology
-  ebatzer\@ucdavis.edu          University of California, Davis
-  Phone: 203.448.8124           Davis, CA 95616
-
-
-### EDUCATION {#education .unnumbered .unnumbered}
-PhD, Ecology, (expected 2020)   
+#### PhD, Ecology, (expected 2020)   
 University of California, Davis
 *Advisor:* Valerie Eviner       
 *GPA:* 4.00
 
-BSc *cum laude* (December 2012)                     
-University of Michigan
+#### BSc *cum laude* (2013)                     
+University of Michigan 
 *Concentration:* Ecology and Evolutionary Biology   
 *GPA:* 3.74
 
 GRE Scores                                                           
 *Verbal:* 170 (99%) 
+
 *Quantitative:* 164 (84%) 
+
 *Writing:* 4.5 (82%)   
 
+  ------------------------------------- ---------------------------------
+
 ### PROFESSIONAL EXPERIENCE
+
+  ------------------------------------- ---------------------------------
   
-Graduate Student Researcher, 09/2014 - Present   University of California, Davis
-  ------------------------------------------------ ---------------------------------
+__Graduate Student Researcher__
 
-  --------------------------- -------------
-  *Plant community ecology*   *Davis, CA*
-  --------------------------- -------------
+*2014 - Present*
 
-Graduate research in plant community ecology, soil ecology, and
-restoration of grassland ecosystems. Current projects include assessment
-of temporally and spatially scale-dependent patterns of plant
-biodiversity in California grasslands. Emphasis on statistical
-methodology and data analysis techniques.
+Graduate research in plant community ecology, soil ecology, and restoration of grassland ecosystems. Current projects include assessment of temporally and spatially scale-dependent patterns of plant
+biodiversity in California grasslands. Emphasis on statistical methodology and data analysis techniques.
 
-  --------------------------------- -------------------------------
-  Data Analyst, 06/2015 - 09/2015   Ecological Society of America
-  --------------------------------- -------------------------------
+__Data Analyst__ 
 
-  ------------------------- -------------
-  *ESA Centennial Survey*   *Davis, CA*
-  ------------------------- -------------
+*2015*
 
 Data analyst for the Ecological Society of America's Centennial Survey,
 an effort to gauge the important discoveries and pressing concerns in
@@ -53,86 +46,64 @@ the last 100 years of ecological science. Evaluated survey responses,
 assisted in production of presentation materials, and worked with a team
 of researchers to produce multiple white papers.
 
-  --------------------------------------------- ------------------------
-  Lead Research Technician, 01/2013 - 05/2014   University of Michigan
-  --------------------------------------------- ------------------------
+__Lead Research Technician__ 
 
-  -------------------------------------- -----------------
-  *Plant invasions in the Great Lakes*   *Ann Arbor, MI*
-  -------------------------------------- -----------------
+*2013 - 2014*
 
 Lead technician for a multi-year NSF funded research project exploring
 the impacts of *Typha* and *Phragmites* invasions on community
 diversity, hydrology, and biogeochemical cycling. Responsible for sample
 processing, data analysis, and coordination of field researchers.
 
-  --------------------------------------------- ------------------------
-  Undergraduate Researcher, 09/2012 - 01/2013   University of Michigan
-  --------------------------------------------- ------------------------
+__Undergraduate Researcher__
 
-  --------------------------- -----------------
-  *Plant community ecology*   *Ann Arbor, MI*
-  --------------------------- -----------------
-
+*2012-2013*
+  
 Undergraduate research on growth patterns of clonal plants, in addition
 to support with field sampling, laboratory processing, production of
 figures and statistical analyses, and assistance with ongiong graduate
 student research.
 
-  ---------------------------------------- -----------------------------
-  Research Technician, 04/2012 - 09/2012   Archbold Biological Station
-  ---------------------------------------- -----------------------------
+__Research Technician__
 
-  ---------------------------- -------------
-  *Plant population biology*   *Venus, FL*
-  ---------------------------- -------------
+*2012*
 
-Research technician for a plant biology laboratory studying endemic
+Research technician at the Archbold Biological Station studying endemic
 plant demography and fire dynamics in the Florida scrub. Gained
 experience in field research techniques, data management, and production
 of visual materials.
-
-### TEACHING EXPERIENCE {#teaching-experience .unnumbered .unnumbered}
-  ------------------------------------- ---------------------------------
-  Teaching Assistant, 4/2017 - 7/2017   University of California, Davis
   ------------------------------------- ---------------------------------
 
-  -------------------------------- --
-  *ENH 160: Restoration Ecology*   
-  -------------------------------- --
+### TEACHING EXPERIENCE 
+  ------------------------------------- ---------------------------------
+  
+#### University of California, Davis 
+
+__ENH 160: Restoration Ecology, Spring 2017__
+
 Teaching assistant for restoration ecology course for upper level
 undergraduates. Assisted students with individual project development,
 scientific communication, and understanding of concepts used in
 environmental restoration. Completed student project compiled into a
 report presented to the Yolo County Resource Conservation District.
 
-  ------------------------------------- ---------------------------------
-  Teaching Assistant, 1/2017 - 3/2017   University of California, Davis
-  ------------------------------------- ---------------------------------
-
-  ------------------------------------ --
-  *BIT 171: Ethics of Biotechnology*   
-  ------------------------------------ --
+__BIT 171: Ethics of Biotechnology, Fall and Winter 2017-2018__
 
 Teaching assistant for scientific ethics course required for
 undergraduates studying biology. Gave lectures, presented frameworks to
 explore ethical issues in scientific research, and assisted students in
 effective written communication.
 
-  ------------------------------------- -------------------------------------------
-  Teaching Assistant, 6/2014 - 9/2014   University of Michigan Biological Station
-  ------------------------------------- -------------------------------------------
+#### University of Michigan Biological Station
 
-  ---------------------------- ----------------
-  *ECL 390: General Ecology*   *Pellston, MI*
-  ---------------------------- ----------------
+__ECL 390: General Ecology, Summer 2014__
 
 Summer field ecology course teaching assistant for junior and senior
 undergraduates. Helped students understand basic ecological concepts,
 experimental design, and research methodology. Average student
 evaluation score 9.84/10.
 
-### PUBLICATIONS and TECHNICAL REPORTS {#publications-and-technical-reports .unnumbered .unnumbered}
+### PUBLICATIONS and TECHNICAL REPORTS
 
 Michaels, J., **E. Batzer**, S. Harrison, and V. Eviner.
 Understanding the Drivers of Landscape Diversity in Grazed Ephemeral
@@ -155,50 +126,23 @@ http://hdl.handle.net/2027.42/89429*
 hierarchies and shelter preference within *Orconectes virilis*.
 *Available at http://hdl.handle.net/2027.42/89434*
 
-### GRANTS and FELLOWSHIPS {#grants-and-fellowships .unnumbered .unnumbered}
+### GRANTS and FELLOWSHIPS 
 
-  ------ ------------------------------------------------
-  2017   UC Davis Plant Sciences Madson Award (\$5,000)
-  ------ ------------------------------------------------
+* 2018:   UC Davis Henry A. Jastro Research Fellowship ($1,000)
+* 2017: UC Davis Plant Sciences Madson Award ($5,000)
+* 2017 - 2018:   UC Davis Natural Reserves Grant ($500)
+* 2016:   UC Davis Plant Sciences Madson Award ($2,000)
+*  2016:   UC Davis Plant Sciences Travel Award ($1,000)
+* 2016 - 2017:   UC Davis Natural Reserves Grant ($1,700)
+* 2016 - 2017:   UC Davis Henry A. Jastro Research Fellowship ($2,100)
+* 2015 - 2016:   California Native Plant Society Hardman Research Award ($1,000)
+* 2015 - 2016:   UC Davis Natural Reserves Grant ($2,400)
+* 2015 - 2019:   UC Davis Plant Sciences Graduate Student Research Award ($185,803)
+* 2014 - 2016:   UC Davis Graduate Group in Ecology Fellowship ($58,172)
 
-  ------------- -----------------------------------------
-  2017 - 2018   UC Davis Natural Reserves Grant (\$500)
-  ------------- -----------------------------------------
-
-  ------ ------------------------------------------------
-  2016   UC Davis Plant Sciences Madson Award (\$2,000)
-  ------ ------------------------------------------------
-
-  ------ ------------------------------------------------
-  2016   UC Davis Plant Sciences Travel Award (\$1,000)
-  ------ ------------------------------------------------
-
-  ------------- -------------------------------------------
-  2016 - 2017   UC Davis Natural Reserves Grant (\$1,700)
-  ------------- -------------------------------------------
-
-  ------------- --------------------------------------------------------
-  2016 - 2017   UC Davis Henry A. Jastro Research Fellowship (\$2,100)
-  ------------- --------------------------------------------------------
-
-  ------------- ------------------------------------------------------------------
-  2015 - 2016   California Native Plant Society Hardman Research Award (\$1,000)
-  ------------- ------------------------------------------------------------------
-
-  ------------- -------------------------------------------
-  2015 - 2016   UC Davis Natural Reserves Grant (\$2,400)
-  ------------- -------------------------------------------
-
-  ------------- ---------------------------------------------------------------------
-  2015 - 2019   UC Davis Plant Sciences Graduate Student Research Award (\$185,803)
-  ------------- ---------------------------------------------------------------------
-
-  ------------- ----------------------------------------------------------
-  2014 - 2016   UC Davis Graduate Group in Ecology Fellowship (\$58,172)
-  ------------- ----------------------------------------------------------
-
-### PRESENTATIONS {#presentations .unnumbered .unnumbered}
-
+  ------------------------------------- ---------------------------------
+### PRESENTATIONS
+  ------------------------------------- ---------------------------------
 **E. Batzer** and V. Eviner. 2016. California Invasive Plant
 Council. Yosemite, CA.\
 *Title:* Spatial patterns of diversity in California annual grasslands.
@@ -224,65 +168,61 @@ MI.
 *Title:* Social hierarchies and shelter preference within *Orconectes
 virilis*
 
-### MENTORING {#mentoring .unnumbered .unnumbered}
+  ------------------------------------- ---------------------------------
+  
+### MENTORING 
+  ------------------------------------- ---------------------------------
 
-  -------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  2015-Present   University of California, Davis Graduate Student Peer Mentorship Program
-                 *Peer mentor to incoming graduate students in the Ecology Graduate Program at the University of California, Davis. Attended training workshops on effective mentorship. Certified graduate student peer mentor through UC Davis Department of Graduate Studies.*
-  -------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ----------- ------------------------------------------------------------------------------------------------------
-  2013-2014   University of Michigian Undergraduate Research Opportunity Program
-              *Assisted two undergraduate students in design and presentation of an independent research project.*
-  ----------- ------------------------------------------------------------------------------------------------------
-  ------ ------------------------------------------------------------------------------------------------
-  2013   University of Michigian Summer Research Opportunity Program
-         *Assisted an undergraduate student in design and implementation of a summer research project.*
-  ------ ------------------------------------------------------------------------------------------------
+* 2015-Present:   University of California, Davis Graduate Student Peer Mentorship Program
 
-### SERVICE {#service .unnumbered .unnumbered}
-  -------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  2014-Present   Student and Landowner Education and Watershed Stewardship
-                 *Center for Land-Based Learning, Winters, CA*
-                 Served as a volunteer mentor and guest lecturer for the SLEWS program, which pairs local high school biology students with scientists and land managers in collaborative environmental restoration projects. Guided groups of students through the procedures and scientific basis of environmental restoration. Gave guest lectures to classes of 30+ students on carbon and nitrogen cycling in terrestrial ecosystems, California natural history, and importance of soil conservation.
-  -------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ----------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  2016-2017   UC Davis Graduate Group in Ecology Admissions
-              *University of California, Davis*
-              Served as a graduate student admissions committee member for the Graduate Group in Ecology at the University of California, Davis. Reviewed and scored applications from prospective graduate students, attended workshops on implicit biases in
-  ----------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*  2013-2014:   University of Michigian Undergraduate Research Opportunity Program
 
-\vspace{.5ex}
-  -------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  2015-Present   Kids into Discovering Science
-                 *Lower Lake Elementary, Lower Lake, CA*
-                 Gave lectures to 5th grade classes geared towards developing a basic understanding of the scientific process, exploring California natural history, and conducting research projects. Course designed to foster connection between local research institutions and underserved communities.
-  -------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ----------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  2015-2016   Team WILD
-              *The Center for Biological Diversity*
-              Distributed informational materials and organized presentations to promote public awareness of global biological diversity decline and endangered species conservation.
-  ----------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* 2013:   University of Michigian Summer Research Opportunity Program
 
-### PROFESSIONAL MEMBERSHIPS {#professional-memberships .unnumbered .unnumbered}
+  ------------------------------------- ---------------------------------
+### SERVICE
+  ------------------------------------- ---------------------------------
 
-  -------------- -------------------------------
-  2014-Present   Ecological Society of America
-  -------------- -------------------------------
+  * 2014-Present:   Student and Landowner Education and Watershed Stewardship, *Center for Land-Based Learning, Winters, CA*
+  
+      * Served as a volunteer mentor and guest lecturer for the SLEWS program, which pairs local high school biology students with scientists and land managers in collaborative environmental restoration projects. Guided groups of students through the procedures and scientific basis of environmental restoration. Gave guest lectures to classes of 30+ students on carbon and nitrogen cycling in terrestrial ecosystems, California natural history, and importance of soil conservation. 
+       
 
-  -------------- ---------------------------------
-  2014-Present   California Native Plant Society
-  -------------- ---------------------------------
+      
+  * 2016-2017:   UC Davis Graduate Group in Ecology Admissions Committee, *University of California, Davis*
+  
+      * Served as a graduate student admissions committee member for the Graduate Group in Ecology at the University of California, Davis. Reviewed and scored applications from prospective graduate students, attended workshops on implicit biases in academia. 
+      
+      
 
-  -------------- -----------------------------------
-  2015-Present   California Invasive Plant Council
-  -------------- -----------------------------------
+  * 2015-2016:   Kids into Discovering Science, *Lower Lake Elementary, Lower Lake, CA*
+  
+      * Gave lectures to 5th grade classes geared towards developing a basic understanding of the scientific process, exploring California natural history, and conducting research projects. Course designed to foster connection between local research institutions and underserved communities. 
+      
+      
 
-### SKILLS {#skills .unnumbered .unnumbered}
+  * 2015-2016:   Team WILD, *The Center for Biological Diversity*
+  
+      * Distributed informational materials and organized presentations to promote public awareness of global biological diversity decline and endangered species conservation.
 
-  -------------- -------------------------------------------------------------------------
-  *Technical*    Statistical analysis in R, Python, LaTeX text editing.
+  ------------------------------------- ---------------------------------
+### PROFESSIONAL MEMBERSHIPS
+  ------------------------------------- ---------------------------------
+  2014-Present   Ecological Society of America 
+  
+  2014-Present   California Native Plant Society 
+  
+  2015-Present   California Invasive Plant Council 
+  
+
+  ------------------------------------- ---------------------------------
+### SKILLS 
+  ------------------------------------- ---------------------------------
+  *Technical*    
+    * Statistical analysis in R, Python, LaTeX text editing.
                  
-  *Laboratory*   Soil nutrient extraction, plant tissue chemistry, greenhouse rearing
+  *Laboratory*   
+    * Soil nutrient extraction, plant tissue chemistry, greenhouse rearing
                  
-  *Field*        Vegetation plot establishment/sampling, plant demography, soil sampling
-  -------------- -------------------------------------------------------------------------
+  *Field*        
+    * Vegetation plot establishment/sampling, plant demography, soil sampling
