@@ -2,7 +2,7 @@
 title = "Recent & Upcoming Talks"
 date = 2018-06-01 T00:00:00
 math = false
-highlight = false
+highlight = true
 
 # List format.
 #   0 = Simple
@@ -13,4 +13,5 @@ list_format = 0
 [header]
 image = ""
 caption = ""
+
 +++
