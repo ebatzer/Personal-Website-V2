@@ -145,7 +145,7 @@ hierarchies and shelter preference within *Orconectes virilis*.
   ------------------------------------- ---------------------------------
   
 **E. Batzer** and V. Eviner. 2018. 12th Clonal Plant Symposium. Brunswick, ME.\
-*Title:* Nitrogen enrichment eects on grassland plant diversity are dependent on spatial scale.
+*Title:* Nitrogen enrichment effects on grassland plant diversity are dependent on spatial scale.
 
 D. Goldberg, **E. Batzer**, J. Martina, and K. Elgersma. 2018. Ecological Society of America Annual
 Meeting. New Orleans, LA.\
