@@ -143,6 +143,14 @@ hierarchies and shelter preference within *Orconectes virilis*.
   ------------------------------------- ---------------------------------
 ### PRESENTATIONS
   ------------------------------------- ---------------------------------
+  
+**E. Batzer** and V. Eviner. 2018. 12th Clonal Plant Symposium. Brunswick, ME.\
+*Title:* Nitrogen enrichment eects on grassland plant diversity are dependent on spatial scale.
+
+D. Goldberg, **E. Batzer**, J. Martina, and K. Elgersma. 2018. Ecological Society of America Annual
+Meeting. New Orleans, LA.\
+*Title:* Allocation to clonal growth: Approaches and questions.
+
 **E. Batzer** and V. Eviner. 2016. California Invasive Plant
 Council. Yosemite, CA.\
 *Title:* Spatial patterns of diversity in California annual grasslands.
