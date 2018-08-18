@@ -266,7 +266,7 @@ enableGitInfo = false
   
 [[menu.main]]
   name = "Talks"
-  url = "#talk_selected"
+  url = "#talks"
   weight = 4
 
 [[menu.main]]
