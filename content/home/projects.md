@@ -37,8 +37,8 @@ filter_default = 0
   tag = ".scale-dependence"
 
 [[filter]]
-  name = "Long Term Nutrient Enrichment"
-  tag = ".long-term"
+  name = "Nutrient Tradeoffs"
+  tag = ".nut-tradeoffs"
 
 [[filter]]
   name = "Priority Effects"

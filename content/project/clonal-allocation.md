@@ -3,7 +3,7 @@
 date = 2018-06-15
 
 # Project title.
-title = "Scale-Dependence of Biodiversity Loss"
+title = "Resource Allocation to CLonal Growth"
 
 # Project summary to display on homepage.
 summary = "An example of linking directly to an external project website using `external_link`."
@@ -13,7 +13,7 @@ image_preview = "boards.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["scale-dependence"]
+tags = ["clonal-allocation"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
