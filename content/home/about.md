@@ -11,23 +11,28 @@ weight = 5
 [interests]
   interests = [
     "Community Ecology",
-    "Data Science",
-    "Plant Biodiversity"
+    "Statistics",
+    "Data Science"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Ecology (expected)"
+  course = "Ph.D. in Ecology (expected)"
   institution = "University of California, Davis"
   year = 2020
 
 [[education.courses]]
-  course = "BSc in Ecology and Evolutionary Biology"
+    course = "M.S. in Statistics (expected)"
+    institution = "University of California, Davis"
+    year = 2020
+
+[[education.courses]]
+  course = "B.S. in Ecology and Evolutionary Biology"
   institution = "University of Michigan"
   year = 2013
- 
+
 +++
 
 # Biography
 
-Evan Batzer is a PhD candidate in the [Eviner Lab](https://eviner.faculty.ucdavis.edu/) at the University of California, Davis. His interests lie at the intersection between community ecology and statistics.
+Evan Batzer is a Ph.D. Candidate in Ecology at the [Eviner Lab](https://eviner.faculty.ucdavis.edu/) and M.S. Candidate in Statistics at the University of California, Davis. His interests lie at the intersection between community ecology and data science.
