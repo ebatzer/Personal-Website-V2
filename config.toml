@@ -6,7 +6,7 @@
 baseurl = "https://www.evanbatzer.com"
 
 # Title of your site
-title = "Evan Batzer (UNDER CONSTRUCTION)"
+title = "Evan Batzer"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -263,7 +263,7 @@ enableGitInfo = false
   name = "Publications"
   url = "#publications_selected"
   weight = 3
-  
+
 [[menu.main]]
   name = "Talks"
   url = "#talks"
