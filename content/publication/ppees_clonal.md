@@ -1,6 +1,6 @@
 +++
 title = "Allocation to clonal growth: critical questions and protocol to answer them"
-date = "2019/04/22"
+date = "2019-04-22"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Deborah Goldberg", "Evan Batzer", "Jason Martina", "Kenneth Elgersma", "Jitka Klimesova"]
