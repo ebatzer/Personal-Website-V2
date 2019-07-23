@@ -11,6 +11,9 @@ University of California, Davis
 *Advisor:* Valerie Eviner       
 *GPA:* 4.00
 
+#### MS, Statistics (expected 2020)   
+University of California, Davis
+
 #### BSc *cum laude* (2013)                     
 University of Michigan 
 *Concentration:* Ecology and Evolutionary Biology   
@@ -79,29 +82,19 @@ of visual materials.
   
 #### University of California, Davis 
 
-__ENH 160: Restoration Ecology, Spring 2017__
+**As Instructor of Record::**
 
-Teaching assistant for restoration ecology course for upper level
-undergraduates. Assisted students with individual project development,
-scientific communication, and understanding of concepts used in
-environmental restoration. Completed student project compiled into a
-report presented to the Yolo County Resource Conservation District.
+__BIT 171: Ethics of Biotechnology, Winter 2019__
+
+**As Teaching Assistant:**
 
 __BIT 171: Ethics of Biotechnology, Fall and Winter 2017-2018__
 
-Teaching assistant for scientific ethics course required for
-undergraduates studying biology. Gave lectures, presented frameworks to
-explore ethical issues in scientific research, and assisted students in
-effective written communication.
+__ENH 160: Restoration Ecology, Spring 2017__
 
 #### University of Michigan Biological Station
 
 __ECL 390: General Ecology, Summer 2014__
-
-Summer field ecology course teaching assistant for junior and senior
-undergraduates. Helped students understand basic ecological concepts,
-experimental design, and research methodology. Average student
-evaluation score 9.84/10.
 
 ### PUBLICATIONS and TECHNICAL REPORTS
 
@@ -110,8 +103,7 @@ Understanding the Drivers of Landscape Diversity in Grazed Ephemeral
 Wetlands. *In Prep.*
 
 Goldberg, D., **E. Batzer**, K. Elgersma, J. Martina, and W.
-Currie. Allocation to clonal growth: approaches and questions. *In
-prep.*
+Currie. Allocation to clonal growth: approaches and questions. *In Review.*
 
 **Batzer, E.**, J. Martina, K. Elgersma, and D. Goldberg. 2017.
 Effects of nutrient addition on clonal allocation and ramet morphology
@@ -128,6 +120,8 @@ hierarchies and shelter preference within *Orconectes virilis*.
 
 ### GRANTS and FELLOWSHIPS 
 
+* 2019:  Kit Rice Award ($4,000)
+* 2019:  UC Davis Plant Sciences Travel Award ($1,500)
 * 2018:   UC Davis Henry A. Jastro Research Fellowship ($1,000)
 * 2017: UC Davis Plant Sciences Madson Award ($5,000)
 * 2017 - 2018:   UC Davis Natural Reserves Grant ($500)
