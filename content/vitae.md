@@ -15,7 +15,7 @@ University of California, Davis
 University of California, Davis
 
 #### BSc *cum laude* (2013)                     
-University of Michigan 
+University of Michigan   
 *Concentration:* Ecology and Evolutionary Biology   
 
   ------------------------------------- ---------------------------------
