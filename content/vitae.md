@@ -8,9 +8,8 @@ output:
  ------------------------------------- --------------------------------- 
 
 #### PhD, Ecology (expected 2020)   
-University of California, Davis
+University of California, Davis  
 *Advisor:* Valerie Eviner       
-*GPA:* 4.00
 
 #### MS, Statistics (expected 2020)   
 University of California, Davis
@@ -18,7 +17,6 @@ University of California, Davis
 #### BSc *cum laude* (2013)                     
 University of Michigan 
 *Concentration:* Ecology and Evolutionary Biology   
-*GPA:* 3.74
 
   ------------------------------------- ---------------------------------
 
