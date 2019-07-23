@@ -82,11 +82,11 @@ of visual materials.
   
 #### University of California, Davis 
 
-**As Instructor of Record::**
+####As Instructor of Record:
 
 __BIT 171: Ethics of Biotechnology, Winter 2019__
 
-**As Teaching Assistant:**
+####As Teaching Assistant:
 
 __BIT 171: Ethics of Biotechnology, Fall and Winter 2017-2018__
 
