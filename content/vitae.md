@@ -7,7 +7,7 @@ output:
 ### EDUCATION
  ------------------------------------- --------------------------------- 
 
-#### PhD, Ecology, (expected 2020)   
+#### PhD, Ecology (expected 2020)   
 University of California, Davis
 *Advisor:* Valerie Eviner       
 *GPA:* 4.00
