@@ -2,9 +2,10 @@
 output:
   html_document
 ---
-  ------------------------------------- ---------------------------------
+  ------------------------------------- ---------------------------------   
+  
 ### EDUCATION
-  ------------------------------------- ---------------------------------
+ ------------------------------------- --------------------------------- 
 
 #### PhD, Ecology, (expected 2020)   
 University of California, Davis
@@ -18,13 +19,6 @@ University of California, Davis
 University of Michigan 
 *Concentration:* Ecology and Evolutionary Biology   
 *GPA:* 3.74
-
-GRE Scores                                                           
-*Verbal:* 170 (99%) 
-
-*Quantitative:* 164 (84%) 
-
-*Writing:* 4.5 (82%)   
 
   ------------------------------------- ---------------------------------
 
@@ -74,7 +68,8 @@ __Research Technician__
 Research technician at the Archbold Biological Station studying endemic
 plant demography and fire dynamics in the Florida scrub. Gained
 experience in field research techniques, data management, and production
-of visual materials.
+of visual materials. 
+
   ------------------------------------- ---------------------------------
 
 ### TEACHING EXPERIENCE 
@@ -82,21 +77,25 @@ of visual materials.
   
 #### University of California, Davis 
 
-####As Instructor of Record:
+**As Instructor of Record:**
 
-__BIT 171: Ethics of Biotechnology, Winter 2019__
+BIT 171: Ethics of Biotechnology, Winter 2019
 
-####As Teaching Assistant:
+**As Teaching Assistant:**
 
-__BIT 171: Ethics of Biotechnology, Fall and Winter 2017-2018__
+BIT 171: Ethics of Biotechnology, Fall and Winter 2017-2018
 
-__ENH 160: Restoration Ecology, Spring 2017__
+ENH 160: Restoration Ecology, Spring 2017    
+
 
 #### University of Michigan Biological Station
 
-__ECL 390: General Ecology, Summer 2014__
+ECL 390: General Ecology, Summer 2014 
+
+  ------------------------------------- ---------------------------------
 
 ### PUBLICATIONS and TECHNICAL REPORTS
+  ------------------------------------- ---------------------------------
 
 Michaels, J., **E. Batzer**, S. Harrison, and V. Eviner.
 Understanding the Drivers of Landscape Diversity in Grazed Ephemeral
@@ -118,8 +117,12 @@ http://hdl.handle.net/2027.42/89429*
 hierarchies and shelter preference within *Orconectes virilis*.
 *Available at http://hdl.handle.net/2027.42/89434*
 
+ ------------------------------------- --------------------------------- 
+ 
 ### GRANTS and FELLOWSHIPS 
 
+ ------------------------------------- --------------------------------- 
+ 
 * 2019:  Kit Rice Award ($4,000)
 * 2019:  UC Davis Plant Sciences Travel Award ($1,500)
 * 2018:   UC Davis Henry A. Jastro Research Fellowship ($1,000)
@@ -132,11 +135,14 @@ hierarchies and shelter preference within *Orconectes virilis*.
 * 2015 - 2016:   California Native Plant Society Hardman Research Award ($1,000)
 * 2015 - 2016:   UC Davis Natural Reserves Grant ($2,400)
 * 2015 - 2019:   UC Davis Plant Sciences Graduate Student Research Award ($185,803)
-* 2014 - 2016:   UC Davis Graduate Group in Ecology Fellowship ($58,172)
+* 2014 - 2016:   UC Davis Graduate Group in Ecology Fellowship ($58,172) 
 
-  ------------------------------------- ---------------------------------
-### PRESENTATIONS
-  ------------------------------------- ---------------------------------
+------------------------------------- ---------------------------------
+
+### PRESENTATIONS 
+
+------------------------------------- ---------------------------------
+
   
 **E. Batzer** and V. Eviner. 2018. 12th Clonal Plant Symposium. Brunswick, ME.\
 *Title:* Nitrogen enrichment effects on grassland plant diversity are dependent on spatial scale.
@@ -170,19 +176,22 @@ MI.
 *Title:* Social hierarchies and shelter preference within *Orconectes
 virilis*
 
-  ------------------------------------- ---------------------------------
+  ------------------------------------- --------------------------------- 
   
 ### MENTORING 
+
   ------------------------------------- ---------------------------------
 
 * 2015-Present:   University of California, Davis Graduate Student Peer Mentorship Program
 
-*  2013-2014:   University of Michigian Undergraduate Research Opportunity Program
+* 2013-2014:   University of Michigian Undergraduate Research Opportunity Program
 
 * 2013:   University of Michigian Summer Research Opportunity Program
 
   ------------------------------------- ---------------------------------
+  
 ### SERVICE
+
   ------------------------------------- ---------------------------------
 
   * 2014-Present:   Student and Landowner Education and Watershed Stewardship, *Center for Land-Based Learning, Winters, CA*
@@ -208,8 +217,11 @@ virilis*
       * Distributed informational materials and organized presentations to promote public awareness of global biological diversity decline and endangered species conservation.
 
   ------------------------------------- ---------------------------------
-### PROFESSIONAL MEMBERSHIPS
+  
+### PROFESSIONAL MEMBERSHIPS 
+
   ------------------------------------- ---------------------------------
+  
   2014-Present   Ecological Society of America 
   
   2014-Present   California Native Plant Society 
@@ -218,13 +230,12 @@ virilis*
   
 
   ------------------------------------- ---------------------------------
+  
 ### SKILLS 
   ------------------------------------- ---------------------------------
-  *Technical*    
-    * Statistical analysis in R, Python, LaTeX text editing.
-                 
-  *Laboratory*   
-    * Soil nutrient extraction, plant tissue chemistry, greenhouse rearing
-                 
-  *Field*        
-    * Vegetation plot establishment/sampling, plant demography, soil sampling
+  
+__Quantitative Methods__: Applied statistical modelling (Bayesian and frequentist), multivariate statistics, hierarchical and mixed
+effects models, spatial statistics, natural language processing, web scraping, machine learning
+
+__Tools__: R (Package development, Shiny web applications, RMarkdown, tidyverse, data.table, ggplot2, RStan),
+Python (NumPy, SciPy, pandas, matplotlib, Scikit-Learn, NLTK), JAGS, WinBUGS, Git
